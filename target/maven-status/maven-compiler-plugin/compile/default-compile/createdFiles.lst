@@ -1,0 +1,17 @@
+com\linshili\util\SqlSessionFactoryUtils.class
+com\linshili\mapper\BrandMapper.class
+com\linshili\web\filter\loginFilter.class
+com\linshili\web\addServlet.class
+com\linshili\web\SelectByIdServlet.class
+com\linshili\pojo\Brand.class
+com\linshili\web\updateServlet.class
+com\linshili\web\loginServlet.class
+com\linshili\util\CheckCodeUtil.class
+com\linshili\web\SelectAllServlet.class
+com\linshili\web\registerServlet.class
+com\linshili\mapper\UserMapper.class
+com\linshili\service\BrandService.class
+com\linshili\web\delectServlet.class
+com\linshili\web\checkCodeServlet.class
+com\linshili\service\UserService.class
+com\linshili\pojo\User.class
